@@ -1,0 +1,9 @@
+{
+  "name": "coffee-time",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap": "3.3.2",
+    "moment": "2.9.0"
+  },
+  "private": true
+}
