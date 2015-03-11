@@ -7,4 +7,11 @@
 meteor-platform
 autopublish
 insecure
-mquandalle:bower
+iron:router
+underscore
+accounts-password
+ian:accounts-ui-bootstrap-3
+tsega:bootstrap3-datetimepicker
+twbs:bootstrap
+lee:countdown
+momentjs:moment

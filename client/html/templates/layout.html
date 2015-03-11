@@ -1,0 +1,19 @@
+<template name="layout">
+    <div class="site-wrapper">
+
+        <div class="site-wrapper-inner">
+
+            <div class="cover-container">
+
+                {{> header}}
+
+                <div id="main">
+                    {{> yield}}
+                </div>
+
+                {{> footer}}
+            </div>
+        </div>
+    </div>
+
+</template>
